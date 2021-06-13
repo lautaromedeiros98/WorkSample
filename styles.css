@@ -1,0 +1,19 @@
+.contenedorMain{
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+}
+
+#boton{
+    margin : auto;
+}
+
+#imagen{
+    width: 35rem;
+    height: 20rem;
+    margin-left: 29rem;
+}
+
+#paso{
+    text-align: center;
+}
